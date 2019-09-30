@@ -7,8 +7,8 @@ console.log("I am here");
     var i = 0;
 
 
-    var images = ["http://localhost/wordpress/wp-content/themes/newtheme/images/hero.jpg", 
-"http://localhost/wordpress/wp-content/themes/newtheme/images/fashionModels.jpg", "http://localhost/wordpress/wp-content/themes/newtheme/images/hero2.jpg"];
+    var images = ["http://localhost/wordpress/wp-content/themes/newtheme/images/hero4.jpg", 
+"http://localhost/wordpress/wp-content/themes/newtheme/images/twoGirls4.jpg", "http://localhost/wordpress/wp-content/themes/newtheme/images/umbrella5.jpg"];
 
   
     function toggle(){
