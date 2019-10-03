@@ -17,13 +17,15 @@ Wordpress, WooCommerce, Custom Theme, HTML, CSS, Sass, Laravel, Webpack, Bootstr
 
 **Example 1** 
 
-After Wordpress was installed on my localhost, I installed Node.js. I started first by setting up the files for a custom theme on my localhost. The tutorial I used was pretty helpful. This was my first time using PHP but it seemed simple to understand since Wordpress requires a certain structure of code. For instance you need to have a "function.php" or a "footer.php" file in order for Wordpress to understand its purpose. A "footer.php" is obviously where you work on your footer. You will find these same files in probably all Wordpress sites.  
+This was my first attempt installing Wordpress locally, previously I made a site on Wordpress by just working on the live site.  However, developers wouldn't normally do this so I followed this tutorial on how to run Wordpress locally using MAMP. https://www.themeum.com/install-wordpress-localhost/
+
+After Wordpress was installed on my localhost, I installed Node.js. I started first by setting up the files for a custom theme on my localhost. The youtube tutorial I used was pretty helpful. This was my first time using PHP but it seemed simple to understand since Wordpress requires a certain structure of code. For instance you need to have a "function.php" or a "footer.php" file in order for Wordpress to understand its purpose. A "footer.php" is obviously where you work on your footer. You will find these same files in probably all Wordpress sites.  
 
 ![first-prompt](images/progress1.png)
 
 **Example 2**  
 
-The next step was installing Sass, Laravel, and webpack and configuring those files. Laravel compiles your Sass code into CSS and by typing in "npm run watch" I could watch changes on the screen. However I did run into problems of caching, which means sometimes I didn't see the changes happen. I ended up using Google Chrome's incognito mode and my changes would show up live .I found Sass very nice to use and enjoyed it's more intuitive structure, which I think is better than CSS.  The first step was just getting an image on the screen to show up.
+The next step was installing Sass, Laravel, and webpack and configuring those files. Laravel compiles your Sass code into CSS and by typing in "npm run watch" I could watch changes on the screen. However I did run into problems of caching, which means sometimes I didn't see the changes happen. I ended up using Google Chrome's incognito mode and my changes would show up live. I found Sass very nice to use and enjoyed it's more intuitive structure, which I think is better than CSS.  The first step was just getting an image on the screen to show up which you can see in the above example.
 
 ![first-prompt](images/progress3.png)
 
@@ -47,13 +49,13 @@ The next step was styling the written content for my site. This was done in Word
 
 **Example 6** 
 
- I installed the WooCommerce plugin and that was pretty straight ahead. In the Wordpress dashboard I could add products. The shop and cart icon are the only WooCommerce parts of the page.  All the other parts of the website are just pages.
+ I installed the WooCommerce plugin and that was pretty straight ahead. In the Wordpress dashboard I could add products. The shop and cart are the only WooCommerce parts of the site.  All the other parts of the website are just pages.
 
 ![first-prompt](images/progress7.png)
 
 **Example 7** 
 
- Next I came up with this slideshow.  I thought of this idea by looking at my front page and thinking it was pretty boring. I got my pictures from pixabay which has free pictures that are open source. I integrated my own Javascript file in with my custom theme.
+ Next I came up with this slideshow.  I thought of this idea by looking at my front page and thinking it was pretty boring. I got my pictures from pixabay which has free pictures that are open source. I integrated my own Javascript file in with my custom theme.  I wasn't sure exactly how to do this but this tutorial https://wplearninglab.com/add-javascript-specific-wordpress-pages/ really helped.
 
 ![first-prompt](images/progress8.png)
 
@@ -66,7 +68,7 @@ The next step was styling the written content for my site. This was done in Word
 
 **Example 9** 
 
- As mentioned earlier my site was not mobile friendly. I realized in the video tutorial that there was never mentioning of setting the viewport. This is simple HTML code that is in almost all websites! I added the code in my header.php and it worked! My site was mobile responsive as you can see can in the second photo here.  Bootstrap is used to create columns and rows for my website.
+ As mentioned earlier, my site was not mobile friendly. I realized in the video tutorial that there was never mentioning of setting the viewport. This is simple HTML code that is in almost all websites! I added the code in my header.php and it worked! My site was mobile responsive as you can see can in the second photo here.  Bootstrap is used to create columns and rows for my website.
 
 ![first-prompt](images/progress10.png)
 
