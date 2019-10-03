@@ -1,5 +1,5 @@
 # customtheme
-# Cartoon Clicky Game
+# MA Taylor 
 
 In this application I created a custom Wordpress theme for an online shop.  This shop is for customers purchasing fashion items using WooCommerce as a plugin.  It demontstrates how I can integrate custom code with a CMS and third party plugins. The other important aspect of this project is the cart. There is also a cart where customers can fill out their information and receive confirmation that their product is shipped.
 
