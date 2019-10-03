@@ -3,7 +3,7 @@
 
 In this application I created a custom Wordpress theme for an online shop.  This shop is for customers purchasing fashion items using WooCommerce as a plugin.  It demontstrates how I can integrate custom code with a CMS and third party plugins. The other important aspect of this project is the cart. There is a cart where customers can fill out their information and receive confirmation that their product is shipped.
 
-The project started by installing by wordpress and following an online tutorial on how to make a custom theme.  This is what I watched for guidance.  
+The project started by installing wordpress and following an online tutorial on how to make a custom theme.  This is what I watched for guidance.  
 https://www.youtube.com/watch?v=TlmDsU8GirU&t=3814s
 
 However, I created my own styles and did not entirely follow the video. For instance, I used JavaScript to create a slideshow on the main page.
