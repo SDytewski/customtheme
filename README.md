@@ -81,7 +81,7 @@ I created the footer by reading this article https://mdbootstrap.com/docs/jquery
 
 **Example 11** 
 
-I had problems with WooCommerce not showing customer information for shipping and billing. I resolved this by figuring out it was if I was logged in - then the information would show up. Notice the second picture demonstrates the information properly demonstrating for a customers billing and shipping information.  
+I had problems with WooCommerce not showing customer information for shipping and billing. I resolved this by figuring out it was if I was logged in - then the information would show up. Notice the second picture demonstrates the information properly for a customer's billing and shipping information.  
 
 
 
@@ -89,7 +89,7 @@ I had problems with WooCommerce not showing customer information for shipping an
 
 
 # Conclusion
-This application demonstrates my use of Wordpress and creating a custom theme. I used new technologies to get out of my comfort zone. This includes PHP, Sass, Laravel, and Webpack. Another important features if my use of JavaScript  with my custom theme. WooCommerce was integrated as a third party plugin to make the website a fully functional shop.
+This application demonstrates my use of Wordpress and creating a custom theme. I used new technologies for this project. This includes PHP, Sass, Laravel, and Webpack. Another important feature is my use of JavaScript  with my custom theme. WooCommerce was integrated as a third party plugin to make the website a fully functional shop.
 
 1. deployed site: http://mataylorshop.com
 2. custom theme files: https://github.com/SDytewski/customtheme
